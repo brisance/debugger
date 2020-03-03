@@ -1,0 +1,14 @@
+{
+    "name": "brisance/debugger",
+    "description": "A debugger for PHP code",
+    "type": "composer-plugin",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Holger Mürk",
+            "email": "holger.murk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
